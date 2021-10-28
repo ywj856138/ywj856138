@@ -1,8 +1,8 @@
-- 👋 Hi, I’m ekans
-- 👀 I’m interested in java
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 --[]--++
+- 👀 Ekans;
+- 🌱 zzj;
+- 💞️ invictus 
+- 📫 cout<<"zzj"<<endl;s
 
 <!---
 ywj856138/ywj856138 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
